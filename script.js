@@ -1,0 +1,5 @@
+const ele = React.createElement('h1',{id:98,name:'sai'},'this is my first react element')
+console.log(ele)
+const r=document.getElementById("root")
+const ro=ReactDOM.createRoot(r)
+ro.render(ele)
