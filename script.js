@@ -9,7 +9,7 @@ console.log(eleZero)
 
 const pi=5000
 
-const Title=()=><h2>Raju </h2>
+const Title=()=><h2>Ru </h2>
 const Header=()=> (<h1> 
    
     <Title/>
