@@ -1,0 +1,26 @@
+{
+  "name": "react_tillu",
+  "version": "1.0.0",
+  "description": "\"i am learning react from akshay saini\"",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "akshay",
+    "saini"
+  ],
+  "author": "Tillu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":["last 2 versions"]
+
+  
+}
